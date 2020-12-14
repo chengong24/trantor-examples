@@ -50,8 +50,3 @@ trantor-example
 │       │       └── application.yml
 └── pom.xml
 ```
-
-## Trantor示例代码
-
-* [trantor-example-module](./trantor-example-module/README.md) : trantor模块的定义
-* [trantor-example-model](./trantor-example-model/README.md)  : trantor中模型的定义
